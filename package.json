@@ -8,8 +8,11 @@
   "private": true,
   "devDependencies": {
     "es6-shim": "^0.35.5",
+    "babel-core": "^6.26.0",
+    "awesome-typescript-loader": "^5.2.1",
     "eslint-loader": "^2.0.0",
     "eslint-plugin-react": "^7.7.0",
+    "karma": "^4.0.1",
     "espower-typescript": "^9.0.1"
   }
 }
